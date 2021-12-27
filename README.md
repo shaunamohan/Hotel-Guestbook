@@ -1,5 +1,5 @@
 # Hotel-Guestbook
 Responsive template. HTML5 - CSS - jQuery.
 
-![alt text](https://res.cloudinary.com/dkp2goy1i/image/upload/v1638129409/image-1_gqmobw.jpg)
-![alt text](https://res.cloudinary.com/dkp2goy1i/image/upload/v1638129408/image-2_yebk8a.jpg)
+![alt text](https://res.cloudinary.com/dkp2goy1i/image/upload/v1640208569/image-3new_ctlawt.png)
+
